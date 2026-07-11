@@ -1,0 +1,11 @@
+name: LearningMC
+version: '${version}'
+
+authors: [Swiftality]
+
+main: com.swiftality.learningMC.LearningMC
+api-version: '1.21.11'
+load: POSTWORLD
+
+libraries:
+  - com.zaxxer:HikariCP:7.1.0

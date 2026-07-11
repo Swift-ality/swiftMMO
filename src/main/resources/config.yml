@@ -1,0 +1,8 @@
+Items:
+  Sword:
+    name: "LightBringer"
+    base-item: "DIAMOND_SWORD"
+    attributes:
+      intelligence: 10
+      strength: 10
+      agility: 20
